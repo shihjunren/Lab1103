@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab1103", "Lab1103\Lab1103.csproj", "{B514DDAA-8E0B-4411-AED9-35A20E4D63ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tryIEnumerable", "tryIEnumerable\tryIEnumerable.csproj", "{4EEA0633-BB3D-41D0-8499-A4C44DD35905}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B514DDAA-8E0B-4411-AED9-35A20E4D63ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B514DDAA-8E0B-4411-AED9-35A20E4D63ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B514DDAA-8E0B-4411-AED9-35A20E4D63ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B514DDAA-8E0B-4411-AED9-35A20E4D63ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EEA0633-BB3D-41D0-8499-A4C44DD35905}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EEA0633-BB3D-41D0-8499-A4C44DD35905}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EEA0633-BB3D-41D0-8499-A4C44DD35905}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EEA0633-BB3D-41D0-8499-A4C44DD35905}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE046DAA-BFDC-425D-BCB2-C7C44DF36777}
+	EndGlobalSection
+EndGlobal
